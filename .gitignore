@@ -24,3 +24,5 @@ _site/
 
 # Go workspace file
 go.work
+
+# End of .gitignore
